@@ -1,0 +1,37 @@
+movie_id,title,genres
+1,Inception,Sci-Fi|Thriller
+2,Interstellar,Sci-Fi|Drama
+3,The Matrix,Sci-Fi|Action
+4,Arrival,Sci-Fi|Drama
+5,Edge of Tomorrow,Sci-Fi|Action
+6,Blade Runner 2049,Sci-Fi|Drama
+7,The Dark Knight,Action|Crime
+8,John Wick,Action|Thriller
+9,Mad Max: Fury Road,Action|Adventure
+10,Black Panther,Action|Superhero
+11,Avengers: Endgame,Action|Superhero
+12,Mission: Impossible - Fallout,Action|Thriller
+13,Titanic,Romance|Drama
+14,The Notebook,Romance|Drama
+15,La La Land,Romance|Musical
+16,Crazy Rich Asians,Romance|Comedy
+17,The Pursuit of Happyness,Drama|Biography
+18,The Shawshank Redemption,Drama
+19,The Social Network,Drama|Biography
+20,Hidden Figures,Drama|Biography
+21,Toy Story,Animation|Comedy
+22,Finding Nemo,Animation|Adventure
+23,Coco,Animation|Family
+24,Spider-Man: Into the Spider-Verse,Animation|Superhero
+25,Get Out,Horror|Thriller
+26,A Quiet Place,Horror|Thriller
+27,The Conjuring,Horror
+28,Knives Out,Mystery|Comedy
+29,Sherlock Holmes,Mystery|Action
+30,The Grand Budapest Hotel,Comedy|Drama
+31,The Hangover,Comedy
+32,Jumanji: Welcome to the Jungle,Comedy|Adventure
+33,Ford v Ferrari,Sports|Drama
+34,Creed,Sports|Drama
+35,Moneyball,Sports|Drama
+36,Remember the Titans,Sports|Drama

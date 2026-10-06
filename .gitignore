@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Course material - not redistributed
+DSA_4060_Practical_Quiz_*.pdf
